@@ -1,0 +1,8 @@
+C22550142 LÓPEZ FLORES DANNA PAOLA
+22550320 MALDONADO SEPÚLVEDA DANNA PAOLAP
+C22550143 RIVAS PALOMINO ALAN DIRCEU
+22550340 VAZQUEZ MONTAÑEZ DIEGO ENRIQUE
+
+SOBRE EL CÓDIGO:
+Todos los problemas estan en el mismo proyecto, solo que
+en diferentes paquetes con el nombre del problema; "Problema_x".
